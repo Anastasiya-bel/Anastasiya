@@ -1,2 +1,4 @@
 # Anastasiya.github.io
-Data Scientist
+Привет!
+Я Анастасия Белоусова 
+Обучаюсь по специальности Data Scientist.
